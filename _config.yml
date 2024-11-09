@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 title: Colibri's Blog
 description: A blog powered by GitHub Pages and Jekyll
-paginate: 5
 
 collections:
   blog:
