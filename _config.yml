@@ -2,8 +2,3 @@ theme: jekyll-theme-minimal
 title: Colibri's Blog
 description: A blog powered by GitHub Pages and Jekyll
 paginate: 5
-
-# Optional: Customize the navigation
-collections:
-  blog:
-    output: true
