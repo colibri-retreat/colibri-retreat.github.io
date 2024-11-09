@@ -1,7 +1,7 @@
 # Welcome to My Website
 
 ## 👋 Greeting
-Hello! I'm [Your Name], a [Your Job/Position] interested in [your fields of interest]. Welcome to my personal website where I share my work, publications, and thoughts on topics that interest me. Feel free to explore!
+Hello! I'm [Your Name], a [Your Job/Position] interested in [your fields of interest]. Welcome to my personal website where I share my work, publications, and thoughts on topics that interest me. Feel free to explore! [Go to Publications](#publications) 
 
 ---
 
