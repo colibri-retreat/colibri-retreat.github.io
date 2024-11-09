@@ -1,7 +1,7 @@
-# Welcome to My Website
+# COLIBRI RETREAT
+Hello! I'm [Your Name], a [Your Job/Position] interested in [your fields of interest]. Welcome to my personal website where I share my work, publications, and thoughts on topics that interest me. Feel free to explore! 
 
-## 👋 Greeting
-Hello! I'm [Your Name], a [Your Job/Position] interested in [your fields of interest]. Welcome to my personal website where I share my work, publications, and thoughts on topics that interest me. Feel free to explore! [Go to Publications](#publications) 
+[Github](https://github.com/colibri-retreat) 
 
 ---
 
@@ -46,7 +46,7 @@ I also like to write about topics that inspire me or challenges I'm working on. 
 *Published on [Date]*  
 [Brief introduction or snippet of the post]
 
-[Link to full post]
+[Link to full post](./blog/post1.md)
 
 ---
 
@@ -54,7 +54,7 @@ I also like to write about topics that inspire me or challenges I'm working on. 
 *Published on [Date]*  
 [Brief introduction or snippet of the post]
 
-[Link to full post]
+[Link to full post](./blog/post2.md)
 
 ---
 
@@ -62,7 +62,7 @@ I also like to write about topics that inspire me or challenges I'm working on. 
 *Published on [Date]*  
 [Brief introduction or snippet of the post]
 
-[Link to full post]
+[Link to full post](./blog/post3.md)
 
 ---
 
