@@ -1,4 +1,4 @@
-[About](#about) | [News](#news) | [Publications](#publications) | [Blog](#blog) | [Gallary](#gallary) | [Contact](#contact)
+[About](#about) | [News](#news) | [Publications](#publications) | [Blog](#blog) | [Gallery](#gallery) | [Contact](#contact)
 
 # Max Mustermann
 ![image](banner.jpg)
@@ -79,7 +79,7 @@ Bananas are a tropical favorite known for their natural sweetness and portabilit
 <br>
 <br>
 
-## 📷 Image Gallery <a name="gallery"></a>
+## 📷 Gallery <a name="gallery"></a>
 
 ### Images from the COLIBRI Retreat
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
