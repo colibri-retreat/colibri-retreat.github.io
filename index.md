@@ -1,4 +1,4 @@
-[About](#about) | [News](#news) | [Publications](#publications) | [Blog](#blog) | [Contact](#contact)
+[About](#about) | [News](#news) | [Publications](#publications) | [Blog](#blog) | [Gallary](#gallary) | [Contact](#contact)
 
 # Max Mustermann
 ![image](banner.jpg)
