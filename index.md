@@ -1,7 +1,7 @@
 [About](#about) | [News](#news) | [Publications](#publications) | [Blog](#blog) | [Contact](#contact)
 
 # Max Mustermann
-![image](banner.jpg)
+![image](profile.jpg)
 
 
 <br>
