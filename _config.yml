@@ -2,7 +2,3 @@
 # theme: jekyll-theme-midnight
 # theme: jekyll-theme-merlot
 theme: jekyll-theme-tactile
-
-collections:
-  blog:
-    output: true
