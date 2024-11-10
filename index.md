@@ -57,7 +57,7 @@ Apples have been a beloved fruit for centuries, with a rich variety of flavors a
 
 ---
 
-### [Title on Bananas]
+### [Blogpost on Bananas]
 *Published on [Date]*  
 Bananas are a tropical favorite known for their natural sweetness and portability. Learn how this humble fruit provides vital energy, key nutrients, and surprising benefits to our health.
 
