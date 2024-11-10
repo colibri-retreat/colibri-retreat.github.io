@@ -27,8 +27,7 @@ Save the date! From 11.11. - 13.11.2024, is this year's COLIBRI PhD Consortium R
 <br>
 <br>
 
-## 📚 Publications <a name="publications"></a>
-Here is a selection of my recent publications:
+## 📚 Selected Publications <a name="publications"></a>
 
 ### Critical transitions in degree mixed networks 
    **Reisinger D**, Adam R, Kogler ML, Füllsack M, Jäger G. Critical transitions in degree mixed networks: A discovery of forbidden tipping regions in networked spin systems. PloS One. 2022.
@@ -55,7 +54,7 @@ Here is a selection of my recent publications:
 <br>
 <br>
 
-## 📝 Blog Posts <a name="blog"></a>
+## 📝 Blog <a name="blog"></a>
 
 ### Blogpost about Oranges
 *Published on 11.11.2024*  
