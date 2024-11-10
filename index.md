@@ -2,7 +2,7 @@
 
 # Max Mustermann
 
-## About me {#about}
+## About me <a name="about"></a>
 I am a predoctoral researcher at the [Institute of Environmental Systems Sciences](https://ess.uni-graz.at/en/) where I study critical transitions in nature and society. 
 
 I am also part of the field of excellence Complexity of Life in Basic Research and Innovation [COLIBRI](https://colibri.uni-graz.at/en/) which investigates complex systems and prepares for future changes in the biosphere and sociosphere by understanding the complexity and interactions between components of living systems. 
@@ -10,11 +10,11 @@ I am also part of the field of excellence Complexity of Life in Basic Research a
 [Uni Graz Profile](https://online.uni-graz.at/kfu_online/visitenkarte.show_vcard?pPersonenId=3647147652461D50&pPersonenGruppe=3) &emsp; [Github](https://github.com/spanadiel) &emsp; [Research Gate](https://www.researchgate.net/profile/Daniel-Reisinger-2) &emsp; [Google Scholar](https://scholar.google.com/citations?user=BM5QVbUAAAAJ&hl=en) &emsp; [Website](https://notblue.red/)
 
 
-## 📰 News {#news}
+## 📰 News <a name="news"></a>
 Save the date! From 11.11. - 13.11.2024, is this year's COLIBRI PhD Consortium Retreat. 
 
 
-## 📚 Publications {#publications}
+## 📚 Publications <a name="publications"></a>
 Here is a selection of my recent publications:
 
 1. **Critical transitions in degree mixed networks** 
@@ -38,7 +38,7 @@ Here is a selection of my recent publications:
 
 ---
 
-## 📝 Blog Posts {#blog}
+## 📝 Blog Posts <a name="blog"></a>
 I also like to write about topics that inspire me or challenges I'm working on. Check out my latest posts:
 
 ### [Blogpost about Oranges]
@@ -65,7 +65,7 @@ Bananas are a tropical favorite known for their natural sweetness and portabilit
 
 
 
-## 📬 Contact Me {#contact}
+## 📬 Contact Me <a name="contact"></a>
 Feel free to reach out!
 
 Daniel Reisinger
