@@ -1,7 +1,6 @@
 [About](#about) | [News](#news) | [Publications](#publications) | [Blog](#blog) | [Gallery](#gallery) | [Contact](#contact)
 
-# Max Mustermann
-Complex Systems Researcher
+# Max Mustermann, MSc
 ![image](banner.jpg)
 
 
