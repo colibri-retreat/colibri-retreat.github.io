@@ -27,7 +27,7 @@ Save the date! From 11.11. - 13.11.2024, is this year's COLIBRI PhD Consortium R
 ## 📚 Publications <a name="publications"></a>
 Here is a selection of my recent publications:
 
-### Critical transitions in degree mixed networks
+### Critical transitions in degree mixed networks 
    **Reisinger D**, Adam R, Kogler ML, Füllsack M, Jäger G. Critical transitions in degree mixed networks: A discovery of forbidden tipping regions in networked spin systems. PloS One. 2022.
    
    [Link to publication](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277347)
@@ -47,7 +47,6 @@ Here is a selection of my recent publications:
 *For a full list of publications, please see my [Google Scholar Profile](https://scholar.google.com/citations?user=BM5QVbUAAAAJ&hl=en)* 
 
 ---
-
 
 <br>
 <br>
@@ -76,6 +75,21 @@ Bananas are a tropical favorite known for their natural sweetness and portabilit
 
 [Link to full post](./blog/post-template.md)
 
+<br>
+<br>
+<br>
+## 📷 Image Gallery <a name="gallery"></a>
+
+### Some of my favorite images:
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="shroom.jpg" alt="Image 1" style="width: 400px; height: 400px; object-fit: cover;">
+  <img src="neurons.jpg" alt="Image 2" style="width: 400px; height: 400px; object-fit: cover;">
+  <img src="micro.jpg" alt="Image 3" style="width: 400px; height: 400px; object-fit: cover;">
+  <img src="shroom.jpg" alt="Image 4" style="width: 400px; height: 400px; object-fit: cover;">
+  <img src="neurons.jpg" alt="Image 5" style="width: 400px; height: 400px; object-fit: cover;">
+  <img src="micro.jpg" alt="Image 6" style="width: 400px; height: 400px; object-fit: cover;">
+</div>
 
 <br>
 <br>
@@ -83,9 +97,9 @@ Bananas are a tropical favorite known for their natural sweetness and portabilit
 ## 📬 Contact Me <a name="contact"></a>
 Feel free to reach out!
 
-Max Mustermann
+Max Mustermann  
 max.mustermann@uni-graz.at
 
-Institute of Environmental Systems Sciences
-Merangasse 18, 8010 Graz
+Institute of Environmental Systems Sciences  
+Merangasse 18, 8010 Graz  
 Austria
