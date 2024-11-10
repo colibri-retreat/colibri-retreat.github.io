@@ -1,4 +1,4 @@
-[Home](#max-mustermann) | [News](#📰 News) | [Publications](#publications) | [News](#news)
+[Home](#max-mustermann) | [News](##News) | [Publications](#publications) | [News](#news)
 
 # Max Mustermann
 
