@@ -1,19 +1,20 @@
-# COLIBRI RETREAT
-Hello! I'm [Your Name], a [Your Job/Position] interested in [your fields of interest]. Welcome to my personal website where I share my work, publications, and thoughts on topics that interest me. Feel free to explore! 
-
-[Github](https://github.com/colibri-retreat) 
-
----
+# Max Mustermann
 
 ## 📖 About Me
-I'm currently a [Your Job/Position] at [Your Institution/Company]. I hold a [Degree] in [Field of Study] from [University/College]. My research and work focus on [specific fields, e.g., machine learning, environmental science, digital art].
+I am a predoctoral researcher at the [Institute of Environmental Systems Sciences](https://ess.uni-graz.at/en/) where I study critical transitions in nature and society. My research combines the following areas, if you are intersted in collaborating, feel free contact me through on of the channels below. 
 
-Some of my core interests include:
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
+- [Research Area 1]
+- [Research Area 2]
+- [Research Area 1]
 
-In my free time, I enjoy [a few hobbies or interests].
+I am also part of the field of excellence Complexity of Life in Basic Research and Innovation [COLIBRI](https://colibri.uni-graz.at/en/) which investigates complex systems and prepares for future changes in the biosphere and sociosphere by understanding the complexity and interactions between components of living systems. 
+
+[Uni Graz Profile](https://online.uni-graz.at/kfu_online/visitenkarte.show_vcard?pPersonenId=3647147652461D50&pPersonenGruppe=3) [Github](https://github.com/spanadiel) &emsp; [Research Gate](https://www.researchgate.net/profile/Daniel-Reisinger-2) &emsp; [Google Scholar](https://scholar.google.com/citations?user=BM5QVbUAAAAJ&hl=en) &emsp; [Website](https://notblue.red/)
+
+
+## 📰 News
+Save the date! From 11.11. - 13.11.2024, is this year's COLIBRI PhD Consortium Retreat. 
+
 
 ---
 
