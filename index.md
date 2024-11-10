@@ -1,16 +1,16 @@
+[Home](#max-mustermann) | [News](#📰 News) | [Publications](#publications) | [News](#news)
+
 # Max Mustermann
 
-## 📖 About Me
-I am a predoctoral researcher at the [Institute of Environmental Systems Sciences](https://ess.uni-graz.at/en/) where I study critical transitions in nature and society. My research combines the following areas, if you are intersted in collaborating, feel free contact me through on of the channels below. 
-
-- [Research Area 1]
-- [Research Area 2]
-- [Research Area 1]
+I am a predoctoral researcher at the [Institute of Environmental Systems Sciences](https://ess.uni-graz.at/en/) where I study critical transitions in nature and society. 
 
 I am also part of the field of excellence Complexity of Life in Basic Research and Innovation [COLIBRI](https://colibri.uni-graz.at/en/) which investigates complex systems and prepares for future changes in the biosphere and sociosphere by understanding the complexity and interactions between components of living systems. 
 
-[Uni Graz Profile](https://online.uni-graz.at/kfu_online/visitenkarte.show_vcard?pPersonenId=3647147652461D50&pPersonenGruppe=3) [Github](https://github.com/spanadiel) &emsp; [Research Gate](https://www.researchgate.net/profile/Daniel-Reisinger-2) &emsp; [Google Scholar](https://scholar.google.com/citations?user=BM5QVbUAAAAJ&hl=en) &emsp; [Website](https://notblue.red/)
+[Uni Graz Profile](https://online.uni-graz.at/kfu_online/visitenkarte.show_vcard?pPersonenId=3647147652461D50&pPersonenGruppe=3) &emsp; [Github](https://github.com/spanadiel) &emsp; [Research Gate](https://www.researchgate.net/profile/Daniel-Reisinger-2) &emsp; [Google Scholar](https://scholar.google.com/citations?user=BM5QVbUAAAAJ&hl=en) &emsp; [Website](https://notblue.red/)
 
+
+## 📰 News
+Save the date! From 11.11. - 13.11.2024, is this year's COLIBRI PhD Consortium Retreat. 
 
 ## 📰 News
 Save the date! From 11.11. - 13.11.2024, is this year's COLIBRI PhD Consortium Retreat. 
