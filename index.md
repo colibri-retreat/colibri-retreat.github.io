@@ -22,9 +22,10 @@ I am also part of the field of excellence Complexity of Life in Basic Research a
 <br>
 
 ## 📰 News <a name="news"></a>
+---
 Save the date! From 11.11. - 13.11.2024, is this year's COLIBRI PhD Consortium Retreat. 
 
-
+---
 <br>
 <br>
 <br>
@@ -81,7 +82,6 @@ Bananas are a tropical favorite known for their natural sweetness and portabilit
 <br>
 
 ## 📷 Gallery <a name="gallery"></a>
----
 ### Images from the COLIBRI Retreat
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="micro.jpg" style="width: 400px; height: 400px; object-fit: cover;">
@@ -94,7 +94,6 @@ Bananas are a tropical favorite known for their natural sweetness and portabilit
   <img src="micro.jpg" style="width: 400px; height: 400px; object-fit: cover;">
 </div>
 
----
 <br>
 <br>
 <br>
