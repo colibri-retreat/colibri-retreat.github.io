@@ -32,7 +32,7 @@ I also like to write about topics that inspire me or challenges I'm working on. 
 *Published on [Date]*  
 [Brief introduction or snippet of the post]
 
-[Link to full post](./blog/post1.md)
+[Link to full post](./_posts/post1.md)
 
 ---
 
@@ -40,7 +40,7 @@ I also like to write about topics that inspire me or challenges I'm working on. 
 *Published on [Date]*  
 [Brief introduction or snippet of the post]
 
-[Link to full post](./blog/post2.md)
+[Link to full post](./_posts/post2.md)
 
 ---
 
@@ -48,7 +48,7 @@ I also like to write about topics that inspire me or challenges I'm working on. 
 *Published on [Date]*  
 [Brief introduction or snippet of the post]
 
-[Link to full post](./blog/post3.md)
+[Link to full post](./_posts/post3.md)
 
 ---
 
