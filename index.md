@@ -83,17 +83,17 @@ Bananas are a tropical favorite known for their natural sweetness and portabilit
 
 ### Images from the COLIBRI Retreat
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="micro.jpg" alt="Image 3" style="width: 400px; height: 400px; object-fit: cover;">
-  <img src="shroom.jpg" alt="Image 4" style="width: 400px; height: 400px; object-fit: cover;">
+  <img src="micro.jpg" alt="Image 1" style="width: 400px; height: 400px; object-fit: cover;">
+  <img src="neurons.jpg" alt="Image 2" style="width: 400px; height: 400px; object-fit: cover;">
+</div>
+
+### Images from Picture Project
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="neurons.jpg" alt="Image 5" style="width: 400px; height: 400px; object-fit: cover;">
   <img src="micro.jpg" alt="Image 6" style="width: 400px; height: 400px; object-fit: cover;">
 </div>
 
-### Images from the project "Your Project Name"
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="shroom.jpg" alt="Image 1" style="width: 400px; height: 400px; object-fit: cover;">
-  <img src="neurons.jpg" alt="Image 2" style="width: 400px; height: 400px; object-fit: cover;">
-</div>
+
 
 <br>
 <br>
