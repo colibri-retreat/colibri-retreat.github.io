@@ -82,13 +82,13 @@ Bananas are a tropical favorite known for their natural sweetness and portabilit
 <br>
 
 ## 📷 Gallery <a name="gallery"></a>
-*Images from the COLIBRI Retreat*
+*Images from the COLIBRI Retreat (Nov 2024)*
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="micro.jpg" style="width: 400px; height: 400px; object-fit: cover;">
   <img src="neurons.jpg" style="width: 400px; height: 400px; object-fit: cover;">
 </div>
 
-*Images from Picture Project*
+*Images from Picture Project (Jan 2022 - Mar 2024)*
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="neurons.jpg" style="width: 400px; height: 400px; object-fit: cover;">
   <img src="micro.jpg" style="width: 400px; height: 400px; object-fit: cover;">
