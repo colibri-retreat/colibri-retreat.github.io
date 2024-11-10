@@ -76,9 +76,9 @@ Bananas are a tropical favorite known for their natural sweetness and portabilit
 ## 📬 Contact Me <a name="contact"></a>
 Feel free to reach out!
 
-Daniel Reisinger
+Daniel Reisinger <br>
 daniel.reisinger@uni-graz.at
 
-Institute of Environmental Systems Sciences
-Merangasse 18, 8010 Graz
+Institute of Environmental Systems Sciences <br>
+Merangasse 18, 8010 Graz <br>
 Austria
