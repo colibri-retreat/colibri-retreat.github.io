@@ -1,5 +1,3 @@
-[Home](#max-mustermann) | [News](##News) | [Publications](#publications) | [News](#news)
-
 # Max Mustermann
 
 I am a predoctoral researcher at the [Institute of Environmental Systems Sciences](https://ess.uni-graz.at/en/) where I study critical transitions in nature and society. 
