@@ -12,33 +12,26 @@ I am also part of the field of excellence Complexity of Life in Basic Research a
 ## 📰 News
 Save the date! From 11.11. - 13.11.2024, is this year's COLIBRI PhD Consortium Retreat. 
 
-## 📰 News
-Save the date! From 11.11. - 13.11.2024, is this year's COLIBRI PhD Consortium Retreat. 
-
-
----
 
 ## 📚 Publications
 Here is a selection of my recent publications:
 
-1. **[Title of Publication 1]**  
-   _[Journal/Conference Name]_, [Year]  
-   [Brief description or abstract]  
-   [Link to publication if available]
+1. **Critical transitions in degree mixed networks** 
+Reisinger D, Adam R, Kogler ML, Füllsack M, Jäger G. Critical transitions in degree mixed networks: A discovery of forbidden tipping regions in networked spin systems. PloS One. 2022. 
 
-2. **[Title of Publication 2]**  
-   _[Journal/Conference Name]_, [Year]  
-   [Brief description or abstract]  
-   [Link to publication if available]
+[Link to publication](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277347)
 
-3. **[Title of Publication 3]**  
-   _[Journal/Conference Name]_, [Year]  
-   [Brief description or abstract]  
-   [Link to publication if available]
+2. **Patterns of stability in complex contagions**  
+Reisinger D, Tschofenig F, Raven A, Kogler ML, Füllsack M, Veider F, Jäger G. Patterns of stability in complex contagions. Journal of Computational Social Science. 2024.
 
-*For a full list of publications, please see my [Google Scholar Profile/ResearchGate profile/ORCID].*
+[Link to publication](https://link.springer.com/article/10.1007/s42001-024-00294-3)
 
----
+3. **Modular tipping points**  
+Reisinger D, Adam R, Tschofenig F, Füllsack M, Jäger G. Modular tipping points: How local network structure impacts critical transitions in networked spin systems. PloS One. 2023.
+   
+[Link to publication](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292935)
+
+*For a full list of publications, please see my [Google Scholar Profile](https://scholar.google.com/citations?user=BM5QVbUAAAAJ&hl=en)* 
 
 ## 📝 Blog Posts
 I also like to write about topics that inspire me or challenges I'm working on. Check out my latest posts:
