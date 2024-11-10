@@ -7,6 +7,7 @@
 <br>
 <br>
 <br>
+
 ## About me <a name="about"></a>
 I am a predoctoral researcher at the [Institute of Environmental Systems Sciences](https://ess.uni-graz.at/en/) where I study critical transitions in nature and society. 
 
@@ -17,6 +18,7 @@ I am also part of the field of excellence Complexity of Life in Basic Research a
 <br>
 <br>
 <br>
+
 ## 📰 News <a name="news"></a>
 Save the date! From 11.11. - 13.11.2024, is this year's COLIBRI PhD Consortium Retreat. 
 
@@ -24,6 +26,7 @@ Save the date! From 11.11. - 13.11.2024, is this year's COLIBRI PhD Consortium R
 <br>
 <br>
 <br>
+
 ## 📚 Publications <a name="publications"></a>
 Here is a selection of my recent publications:
 
@@ -51,6 +54,7 @@ Here is a selection of my recent publications:
 <br>
 <br>
 <br>
+
 ## 📝 Blog Posts <a name="blog"></a>
 
 ### Blogpost about Oranges
@@ -59,15 +63,11 @@ Oranges are not only a delicious and refreshing fruit but also packed with essen
 
 [Link to full post](./blog/post-template.md)
 
----
-
 ### Blogpost about Apples
 *Published on 12.11.2024*  
 Apples have been a beloved fruit for centuries, with a rich variety of flavors and textures to suit every taste. Join us as we delve into the many ways apples enhance our diets and cultures around the world.
 
 [Link to full post](./blog/post-template.md)
-
----
 
 ### Blogpost about Bananas
 *Published on 13.11.2024*  
@@ -78,22 +78,27 @@ Bananas are a tropical favorite known for their natural sweetness and portabilit
 <br>
 <br>
 <br>
+
 ## 📷 Image Gallery <a name="gallery"></a>
 
-### Some of my favorite images:
-
+### Images from the COLIBRI Retreat
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="shroom.jpg" alt="Image 1" style="width: 400px; height: 400px; object-fit: cover;">
-  <img src="neurons.jpg" alt="Image 2" style="width: 400px; height: 400px; object-fit: cover;">
   <img src="micro.jpg" alt="Image 3" style="width: 400px; height: 400px; object-fit: cover;">
   <img src="shroom.jpg" alt="Image 4" style="width: 400px; height: 400px; object-fit: cover;">
   <img src="neurons.jpg" alt="Image 5" style="width: 400px; height: 400px; object-fit: cover;">
   <img src="micro.jpg" alt="Image 6" style="width: 400px; height: 400px; object-fit: cover;">
 </div>
 
+### Images from the project "Your Project Name"
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="shroom.jpg" alt="Image 1" style="width: 400px; height: 400px; object-fit: cover;">
+  <img src="neurons.jpg" alt="Image 2" style="width: 400px; height: 400px; object-fit: cover;">
+</div>
+
 <br>
 <br>
 <br>
+
 ## 📬 Contact Me <a name="contact"></a>
 Feel free to reach out!
 
