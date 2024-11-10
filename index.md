@@ -1,12 +1,12 @@
 [About](#about) | [News](#news) | [Publications](#publications) | [Blog](#blog) | [Contact](#contact)
 
 # Max Mustermann
-[!image](banner.jpg)
+![image](banner.jpg)
+
 
 <br>
 <br>
 <br>
-
 ## About me <a name="about"></a>
 I am a predoctoral researcher at the [Institute of Environmental Systems Sciences](https://ess.uni-graz.at/en/) where I study critical transitions in nature and society. 
 
@@ -17,14 +17,13 @@ I am also part of the field of excellence Complexity of Life in Basic Research a
 <br>
 <br>
 <br>
-
 ## 📰 News <a name="news"></a>
 Save the date! From 11.11. - 13.11.2024, is this year's COLIBRI PhD Consortium Retreat. 
 
-<br>
-<br>
-<br>
 
+<br>
+<br>
+<br>
 ## 📚 Publications <a name="publications"></a>
 Here is a selection of my recent publications:
 
@@ -33,10 +32,12 @@ Here is a selection of my recent publications:
    
    [Link to publication](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277347)
 
+
 ### Patterns of stability in complex contagions
    **Reisinger D**, Tschofenig F, Raven A, Kogler ML, Füllsack M, Veider F, Jäger G. Patterns of stability in complex contagions. Journal of Computational Social Science. 2024.
    
    [Link to publication](https://link.springer.com/article/10.1007/s42001-024-00294-3)
+
 
 ### Modular tipping points
    **Reisinger D**, Adam R, Tschofenig F, Füllsack M, Jäger G. Modular tipping points: How local network structure impacts critical transitions in networked spin systems. PloS One. 2023.
@@ -45,10 +46,12 @@ Here is a selection of my recent publications:
 
 *For a full list of publications, please see my [Google Scholar Profile](https://scholar.google.com/citations?user=BM5QVbUAAAAJ&hl=en)* 
 
-<br>
-<br>
-<br>
+---
 
+
+<br>
+<br>
+<br>
 ## 📝 Blog Posts <a name="blog"></a>
 
 ### Blogpost about Oranges
@@ -57,11 +60,15 @@ Oranges are not only a delicious and refreshing fruit but also packed with essen
 
 [Link to full post](./blog/post-template.md)
 
+---
+
 ### Blogpost about Apples
 *Published on 12.11.2024*  
 Apples have been a beloved fruit for centuries, with a rich variety of flavors and textures to suit every taste. Join us as we delve into the many ways apples enhance our diets and cultures around the world.
 
 [Link to full post](./blog/post-template.md)
+
+---
 
 ### Blogpost about Bananas
 *Published on 13.11.2024*  
@@ -69,16 +76,16 @@ Bananas are a tropical favorite known for their natural sweetness and portabilit
 
 [Link to full post](./blog/post-template.md)
 
-<br>
-<br>
-<br>
 
+<br>
+<br>
+<br>
 ## 📬 Contact Me <a name="contact"></a>
 Feel free to reach out!
 
-Daniel Reisinger <br>
-daniel.reisinger@uni-graz.at
+Max Mustermann
+max.mustermann@uni-graz.at
 
-Institute of Environmental Systems Sciences <br>
-Merangasse 18, 8010 Graz <br>
+Institute of Environmental Systems Sciences
+Merangasse 18, 8010 Graz
 Austria
