@@ -9,12 +9,14 @@
 <br>
 
 ## About me <a name="about"></a>
+---
 I am a predoctoral researcher at the [Institute of Environmental Systems Sciences](https://ess.uni-graz.at/en/) where I study critical transitions in nature and society. 
 
 I am also part of the field of excellence Complexity of Life in Basic Research and Innovation [COLIBRI](https://colibri.uni-graz.at/en/) which investigates complex systems and prepares for future changes in the biosphere and sociosphere by understanding the complexity and interactions between components of living systems. 
 
 [Uni Graz Profile](https://online.uni-graz.at/kfu_online/visitenkarte.show_vcard?pPersonenId=3647147652461D50&pPersonenGruppe=3) &emsp; [Github](https://github.com/spanadiel) &emsp; [Research Gate](https://www.researchgate.net/profile/Daniel-Reisinger-2) &emsp; [Google Scholar](https://scholar.google.com/citations?user=BM5QVbUAAAAJ&hl=en) &emsp; [Website](https://notblue.red/)
 
+---
 <br>
 <br>
 <br>
@@ -47,14 +49,14 @@ Save the date! From 11.11. - 13.11.2024, is this year's COLIBRI PhD Consortium R
    [Link to publication](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292935)
 
 *For a full list of publications, please see my [Google Scholar Profile](https://scholar.google.com/citations?user=BM5QVbUAAAAJ&hl=en)* 
----
 
+---
 <br>
 <br>
 <br>
 
 ## 📝 Blog <a name="blog"></a>
-
+---
 ### Blogpost about Oranges
 *Published on 11.11.2024*  
 Oranges are not only a delicious and refreshing fruit but also packed with essential nutrients like vitamin C. In this post, we’ll explore the health benefits, history, and versatility of this vibrant citrus fruit.
@@ -73,12 +75,13 @@ Bananas are a tropical favorite known for their natural sweetness and portabilit
 
 [Link to full post](./blog/post-template.md)
 
+---
 <br>
 <br>
 <br>
 
 ## 📷 Gallery <a name="gallery"></a>
-
+---
 ### Images from the COLIBRI Retreat
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="micro.jpg" style="width: 400px; height: 400px; object-fit: cover;">
@@ -91,8 +94,7 @@ Bananas are a tropical favorite known for their natural sweetness and portabilit
   <img src="micro.jpg" style="width: 400px; height: 400px; object-fit: cover;">
 </div>
 
-
-
+---
 <br>
 <br>
 <br>
