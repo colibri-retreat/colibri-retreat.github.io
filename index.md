@@ -2,7 +2,7 @@
 
 # Max Mustermann, MSc
 ![image](banner.jpg)
-<img src="banner.jpg" width="200" height="200">
+<img src="shroom.jpg" width="400" height="400">
 
 
 
