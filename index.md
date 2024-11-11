@@ -63,19 +63,19 @@ Save the date! From 11.11. - 13.11.2024, is this year's COLIBRI PhD Consortium R
 *Published on 11.11.2024*  
 Oranges are not only a delicious and refreshing fruit but also packed with essential nutrients like vitamin C. In this post, we’ll explore the health benefits, history, and versatility of this vibrant citrus fruit.
 
-[Link to full post](./blog/post-template.md)
+[Link to full post](./blog/oranges.md)
 
 ### Blogpost about Apples
 *Published on 12.11.2024*  
 Apples have been a beloved fruit for centuries, with a rich variety of flavors and textures to suit every taste. Join us as we delve into the many ways apples enhance our diets and cultures around the world.
 
-[Link to full post](./blog/post-template.md)
+[Link to full post](./blog/apples.md)
 
 ### Blogpost about Bananas
 *Published on 13.11.2024*  
 Bananas are a tropical favorite known for their natural sweetness and portability. Learn how this humble fruit provides vital energy, key nutrients, and surprising benefits to our health.
 
-[Link to full post](./blog/post-template.md)
+[Link to full post](./blog/bananas.md)
 
 ---
 <br>
