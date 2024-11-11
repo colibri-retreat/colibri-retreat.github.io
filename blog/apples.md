@@ -11,5 +11,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Literature
 
-[1] Max Mustermann. 2022. The title of the reference here. /
+[1] Max Mustermann. 2022. The title of the reference here. <br>
 [2] Max Knabe. 2021. Wie man eine Zwiebel schneidet. 
