@@ -1,7 +1,7 @@
 [About](#about) | [News](#news) | [Publications](#publications) | [Blog](#blog) | [Gallery](#gallery) | [Contact](#contact)
 
 # Max Mustermann, MSc
-<img src="shroom.jpg" width="400" height="400">
+<img src="shroom.jpg" width="300" height="300">
 
 
 
@@ -85,15 +85,15 @@ Bananas are a tropical favorite known for their natural sweetness and portabilit
 ## 📷 Gallery <a name="gallery"></a>
 Images from the COLIBRI Retreat *(Nov 2024)*
 <div>
-  <img src="micro.jpg" width="400" height="400">
-  <img src="neurons.jpg" width="400" height="400">
+  <img src="micro.jpg" width="300" height="300">
+  <img src="neurons.jpg" width="300" height="300">
 </div>
 
 
 Images from Picture Project *(Jan 2022 - Mar 2024)*
 <div>
-  <img src="micro.jpg" width="400" height="400">
-  <img src="neurons.jpg" width="400" height="400">
+  <img src="micro.jpg" width="300" height="300">
+  <img src="neurons.jpg" width="300" height="300">
 </div>
 
 
