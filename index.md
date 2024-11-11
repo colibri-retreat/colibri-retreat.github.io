@@ -1,7 +1,6 @@
 [About](#about) | [News](#news) | [Publications](#publications) | [Blog](#blog) | [Gallery](#gallery) | [Contact](#contact)
 
 # Max Mustermann, MSc
-![image](banner.jpg)
 <img src="shroom.jpg" width="400" height="400">
 
 
