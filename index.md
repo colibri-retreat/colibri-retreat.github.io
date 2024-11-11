@@ -2,7 +2,7 @@
 
 # Max Mustermann, MSc
 ![image](banner.jpg)
-<img src="banner.jpg" style="width: 400px; height: 400px; object-fit: cover;">
+<img src="banner.jpg" style="width: 400px; height: 400px; object-fit: cover; display: block;">
 
 
 
@@ -85,15 +85,15 @@ Bananas are a tropical favorite known for their natural sweetness and portabilit
 
 ## 📷 Gallery <a name="gallery"></a>
 Images from the COLIBRI Retreat *(Nov 2024)*
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="micro.jpg" style="width: 400px; height: 400px; object-fit: cover;">
-  <img src="neurons.jpg" style="width: 400px; height: 400px; object-fit: cover;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; display: block;">
+  <img src="micro.jpg" style="width: 400px; height: 400px; object-fit: cover; display: block;">
+  <img src="neurons.jpg" style="width: 400px; height: 400px; object-fit: cover; display: block;">
 </div>
 
 Images from Picture Project *(Jan 2022 - Mar 2024)*
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="neurons.jpg" style="width: 400px; height: 400px; object-fit: cover;">
-  <img src="micro.jpg" style="width: 400px; height: 400px; object-fit: cover;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; display: block;">
+  <img src="neurons.jpg" style="width: 400px; height: 400px; object-fit: cover; display: block;">
+  <img src="micro.jpg" style="width: 400px; height: 400px; object-fit: cover; display: block;">
 </div>
 
 <br>
