@@ -15,7 +15,7 @@ I am a predoctoral researcher at the [Institute of Environmental Systems Science
 
 I am also part of the field of excellence Complexity of Life in Basic Research and Innovation [COLIBRI](https://colibri.uni-graz.at/en/) which investigates complex systems and prepares for future changes in the biosphere and sociosphere by understanding the complexity and interactions between components of living systems. 
 
-[Uni Graz Profile](https://online.uni-graz.at/kfu_online/visitenkarte.show_vcard?pPersonenId=3647147652461D50&pPersonenGruppe=3) &emsp; [Github](https://github.com/spanadiel) &emsp; [Research Gate](https://www.researchgate.net/profile/Daniel-Reisinger-2) &emsp; [Google Scholar](https://scholar.google.com/citations?user=BM5QVbUAAAAJ&hl=en) &emsp; [Website](https://notblue.red/)
+[Uni Graz Profile](https://online.uni-graz.at/kfu_online/visitenkarte.show_vcard?pPersonenId=3647147652461D50&pPersonenGruppe=3) | [Github](https://github.com/spanadiel) | [Research Gate](https://www.researchgate.net/profile/Daniel-Reisinger-2) | [Google Scholar](https://scholar.google.com/citations?user=BM5QVbUAAAAJ&hl=en) | [Website](https://notblue.red/)
 
 ---
 <br>
