@@ -1,6 +1,7 @@
 [About me](#about) | [News](#news) | [Publications](#publications) | [Blog](#blog) | [Contact](#contact)
 
 # Daniel Reisinger
+<img src="profile.jpg" width="300" height="300"> 
 
 ## About me <a name="about" ></a>
 ---
