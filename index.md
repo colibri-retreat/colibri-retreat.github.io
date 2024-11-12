@@ -1,4 +1,4 @@
-[About me](#about) | [News]() | [Publications]() | [Blog]() | [Contact]()
+[About me](#about) | [News](#news) | [Publications](#publications) | [Blog](#blog) | [Contact](#contact)
 
 # Daniel Reisinger
 
@@ -13,24 +13,31 @@ I am also part of [COLIBRI](https://colibri.uni-graz.at/de/)
 
 ---
 
-## News
+## News <a name="news" ></a>
 ---
 
 Some news
 
 ---
 
-## Publications
+## Publications <a name="publications" ></a>
 ---
 
 Pulication 1
 
 ---
 
-## Blog
+## Blog <a name="blog" ></a>
 ---
 
 Blogpost 1
 
 --- 
+
+## Contact
+Daniel Reisinger <br>
+daniel.reisinger@uni-graz.at <br>
+
+Institute of Environmental Systems Sciences <br>
+Merangasse 18, Graz
 
