@@ -1,3 +1,5 @@
+[About me]() | [News]() | [Publications]() | [Blog]() | [Contact]()
+
 # Daniel Reisinger
 
 ## About me
