@@ -16,7 +16,7 @@ I am also part of [COLIBRI](https://colibri.uni-graz.at/de/)
 ## News <a name="news" ></a>
 ---
 
-Some news
+Save the date. From 11.11. to 13.11. is this year's Colibri Retreat! 
 
 ---
 
