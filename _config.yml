@@ -1,9 +1,8 @@
 # theme: jekyll-theme-minimal
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 # theme: jekyll-theme-midnight
 # theme: jekyll-theme-merlot
 # theme: jekyll-theme-tactile
-theme: jekyll-theme-beautiful-jekyll
 
 collections: 
   blog:
