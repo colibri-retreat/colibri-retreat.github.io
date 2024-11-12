@@ -21,10 +21,14 @@ Save the date. From 11.11. to 13.11. is this year's Colibri Retreat!
 
 ---
 
-## Publications <a name="publications" ></a>
+## Selected Publications <a name="publications" ></a>
 ---
 
-Pulication 1
+**Max Mustermann**, Sara Sandraman. 2024. How to cut an onion. Journal So and so
+
+[Link to publication]()
+
+*For more publications, visit my [Google scholar profile](https://scholar.google.com/citations?user=BM5QVbUAAAAJ&hl=en&oi=ao). 
 
 ---
 
