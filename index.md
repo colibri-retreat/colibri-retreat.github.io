@@ -1,8 +1,8 @@
-[About me]() | [News]() | [Publications]() | [Blog]() | [Contact]()
+[About me](#about) | [News]() | [Publications]() | [Blog]() | [Contact]()
 
 # Daniel Reisinger
 
-## About me
+## About me <a name="about" ></a>
 ---
 
 Hello. My name is Daniel Reisinger and I am a postdoctoral researcher at the [University of Graz](https://www.uni-graz.at/en/). <br> This is a new line. 
