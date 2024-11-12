@@ -35,7 +35,11 @@ Save the date. From 11.11. to 13.11. is this year's Colibri Retreat!
 ## Blog <a name="blog" ></a>
 ---
 
-Blogpost 1
+### Blogpost about Oranges
+*Written on 12.11.2024* <br> 
+Oranges are well known for their orange colour. In this blogpost we talk about the risks of eating to much of them. 
+
+[Link to full blogpost](./blog/oranges.md)
 
 --- 
 
